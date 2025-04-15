@@ -43,13 +43,5 @@ O funcionamento do semáforo de dois tempos segue a seguinte lógica:
 
 ---
 
-## Observações
-
-- O projeto pode ser implementado em C/C++ utilizando a IDE do Arduino.
-- A lógica pode ser desenvolvida com uso de `millis()` para controle de tempo não-bloqueante ou com `delay()` em uma versão mais simples.
-- Certifique-se de identificar claramente cada semáforo no circuito para facilitar a compreensão e depuração.
-
----
-
 ## Exemplo de Fluxo
 
