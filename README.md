@@ -44,4 +44,5 @@ O funcionamento do semáforo de dois tempos segue a seguinte lógica:
 ---
 
 ## Exemplo de Fluxo
+[![Video](https://keep.google.com/u/0/media/v2/1Sw9T7ZLwl4eqnYsG4ERrwXbejH8AiiJmZggI6nI1UaBq3winzcRqSDLrmdZ1/1hJf0SQnWvRXW86Iu_TBoZagvXRh4AbSgD4Esv7FsBRc1HUuSVapoijur62ND53E?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Caudio%2Faac&sz=786)](#)
 
